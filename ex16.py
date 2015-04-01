@@ -1,6 +1,6 @@
 from sys import argv
 
-scripy, filename = argv
+script, filename = argv
 
 print "We're going to erase %r." % filename
 print "If you don't want that, hit CTRL-C (^C)."
